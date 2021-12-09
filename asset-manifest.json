@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Deep0807/Login-App/static/css/main.f1b67fd9.chunk.css",
+    "main.js": "/Deep0807/Login-App/static/js/main.67872baa.chunk.js",
+    "main.js.map": "/Deep0807/Login-App/static/js/main.67872baa.chunk.js.map",
+    "runtime-main.js": "/Deep0807/Login-App/static/js/runtime-main.19af994e.js",
+    "runtime-main.js.map": "/Deep0807/Login-App/static/js/runtime-main.19af994e.js.map",
+    "static/js/2.7aea5f8a.chunk.js": "/Deep0807/Login-App/static/js/2.7aea5f8a.chunk.js",
+    "static/js/2.7aea5f8a.chunk.js.map": "/Deep0807/Login-App/static/js/2.7aea5f8a.chunk.js.map",
+    "index.html": "/Deep0807/Login-App/index.html",
+    "static/css/main.f1b67fd9.chunk.css.map": "/Deep0807/Login-App/static/css/main.f1b67fd9.chunk.css.map",
+    "static/js/2.7aea5f8a.chunk.js.LICENSE.txt": "/Deep0807/Login-App/static/js/2.7aea5f8a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19af994e.js",
+    "static/js/2.7aea5f8a.chunk.js",
+    "static/css/main.f1b67fd9.chunk.css",
+    "static/js/main.67872baa.chunk.js"
+  ]
+}
